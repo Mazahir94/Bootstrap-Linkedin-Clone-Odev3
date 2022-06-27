@@ -1,3 +1,2 @@
 (Patika dev linkim) [https://app.patika.dev/ltime]
-!(proje resimi)[assets/resim1.png]
-
+![Drag Racing](/assets/resim1.png)
